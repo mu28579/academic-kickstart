@@ -28,15 +28,21 @@ weight = 5
   description = "App development using Android Studio"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon = "ubuntu"
+  icon_pack = "fab"
+  name = "Ubuntu Operating System"
+  description = "Enviroment for app development"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "language"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Languages"
+  description = "C,C++,Java,Python,PHP,HTML"
+  
+[[feature]]
+  icon = "language"
+  icon_pack = "fab"
+  name = "GitHub"
+  description = "Version control"
 
 +++
