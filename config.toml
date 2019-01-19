@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Mike Testing"
+title = "Mike Urbano"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -299,25 +299,25 @@ enableGitInfo = false
   url = "#about"
   weight = 1
 
-[[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
-  weight = 2
+#[[menu.main]]
+  #name = "Publications"
+  #url = "#publications_selected"
+  #weight = 2
 
 [[menu.main]]
   name = "Posts"
   url = "#posts"
   weight = 3
 
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
+#[[menu.main]]
+  #name = "Projects"
+  #url = "#projects"
+  #weight = 4
 
-[[menu.main]]
-  name = "Tutorials"
-  url = "/tutorial/"
-  weight = 5
+#[[menu.main]]
+  #name = "Tutorials"
+  #url = "/tutorial/"
+  #weight = 5
 
 [[menu.main]]
   name = "Contact"
