@@ -40,7 +40,7 @@ weight = 5
   description = "C,C++,Java,Python,PHP,HTML"
   
 [[feature]]
-  icon = "language"
+  icon = "github"
   icon_pack = "fab"
   name = "GitHub"
   description = "Version control"
