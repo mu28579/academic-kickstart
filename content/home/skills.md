@@ -22,7 +22,7 @@ weight = 5
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
-  icon = "fa-android"
+  icon = "android"
   icon_pack = "fab"
   name = "Android"
   description = "App development using Android Studio"
