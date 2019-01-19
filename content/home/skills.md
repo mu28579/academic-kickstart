@@ -22,10 +22,10 @@ weight = 5
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
-  icon = "r-project"
+  icon = "fa-android"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Android"
+  description = "App development using Android Studio"
   
 [[feature]]
   icon = "chart-line"
