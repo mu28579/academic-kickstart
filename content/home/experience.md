@@ -4,7 +4,7 @@ widget = "experience"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
 title = "Experience"
-subtitle = ""
+subtitle = "Resume located at top of screen"
 
 # Order that this section will appear in.
 weight = 4
