@@ -29,7 +29,7 @@ date_format = "January 2006"
   Responsibilities include:
   
   * Use credit policy to underwrite loan requests up to $100K
-  * Analyze consumer/commercial credit reports and financial documents to determine credit worthiness 
+  * Analyze consumer/commercial credit reports and financial documents 
   * Work with clients to obtain financial documents
   """
 
@@ -58,6 +58,7 @@ date_format = "January 2006"
   Responsibilities include:
   
   * Underwrite credit requests between $25K-$35K
-  * Analyze consumer/commercial credit reports and financial documents to determine credit worthiness 
+  * Analyze consumer/commercial credit reports and financial documents 
+  """
 
 +++
