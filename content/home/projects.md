@@ -50,4 +50,3 @@ filter_default = 0
 
 +++
 
-Working on a project for a data mining class.
