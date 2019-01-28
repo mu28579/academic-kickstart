@@ -23,4 +23,4 @@ weight = 60
   * [Results Screen](https://github.com/mu28579/academic-kickstart/tree/master/static/img/results_screen.png)
   
 * Proposal
-  * [One page project proposal](https://github.com/mu28579/academic-kickstart/tree/master/static/files/Project Proposal.pdf)
+  * [One page project proposal](https://github.com/mu28579/academic-kickstart/tree/master/static/files/project_proposal.pdf)
