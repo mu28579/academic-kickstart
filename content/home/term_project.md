@@ -7,7 +7,7 @@ active = true
 date = 2016-04-20T00:00:00
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "CSE 4334 Term Project"
-subtitle = "Moive recommender app"
+subtitle = "Movie recommender app"
 
 # Order that this section will appear in.
 weight = 60
@@ -19,8 +19,8 @@ weight = 60
 
 
 # Rough sketches of possible design
-#### {{< figure library="1" src="icon.png" title="Possible Icon" >}}
-## {{< figure library="1" src="main_screen.png" title="Main Screen" >}}
+{{< figure library="1" src="icon.png" title="Possible Icon" >}}
+{{< figure library="1" src="main_screen.png" title="Main Screen" >}}
 {{< figure library="1" src="results_screen.png" title="Results Screen" >}}
 
 # Proposal
