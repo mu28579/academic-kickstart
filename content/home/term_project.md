@@ -22,6 +22,7 @@ weight = 60
   * [Possible logo](https://github.com/mu28579/academic-kickstart/tree/master/static/img/icon.png)
   * [Main Screen](https://github.com/mu28579/academic-kickstart/tree/master/static/img/main_screen.png)
   * [Results Screen](https://github.com/mu28579/academic-kickstart/tree/master/static/img/results_screen.png)
+  * {{< figure library="1" src="icon.png" title="Possible Icon" >}}
 
 
 * Proposal
