@@ -25,4 +25,4 @@ weight = 60
 
 # Proposal
   * [One page project proposal](https://github.com/mu28579/academic-kickstart/tree/master/static/files/project_proposal.pdf)
-  * [Data Set](https://grouplens.org/datasets/movielens/)
+  * [Data Set](https://www.imdb.com/interfaces/)
