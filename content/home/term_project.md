@@ -15,7 +15,7 @@ weight = 60
 +++
 
 
-[TP] (ref "tp.md")
+[TP] ("tp.md")
 
 Testing
 
