@@ -14,7 +14,7 @@ weight = 60
 
 +++
 
-[TP]( ref "tp.md" )
+[TP]( ref "tutorials.md" )
 
 
 # Reason for app choice
