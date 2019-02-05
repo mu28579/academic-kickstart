@@ -30,4 +30,4 @@ weight = 60
   * [One page project proposal](https://github.com/mu28579/academic-kickstart/tree/master/static/files/project_proposal.pdf)
   * [Data Set](https://www.imdb.com/interfaces/)
 
-[screens]: /tp/screens/
+[screens]: /term-project/screens/
