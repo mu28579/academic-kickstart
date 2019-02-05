@@ -14,7 +14,7 @@ weight = 60
 
 +++
 
-[TP](ref "/term-project/screens.md")
+[TP](ref "/term-project/screens")
 
 
 # Reason for app choice
