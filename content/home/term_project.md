@@ -11,7 +11,7 @@ subtitle = "Movie recommender app"
 
 # Order that this section will appear in.
 weight = 60
-
+[My TP]{{< ref "tp.md" >}} #linking to new page
 +++
 
 # Reason for app choice
