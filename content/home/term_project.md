@@ -14,7 +14,7 @@ weight = 60
 
 +++
 
-[TP]( ref "tutorials.md" )
+[TP](screens)
 
 
 # Reason for app choice
