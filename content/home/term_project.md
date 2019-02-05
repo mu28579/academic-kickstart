@@ -15,7 +15,6 @@ weight = 60
 +++
 
 
-[TP] ("tp.md")
 
 Testing
 
