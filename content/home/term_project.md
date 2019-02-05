@@ -14,7 +14,7 @@ weight = 60
 
 +++
 
-[TP]
+[TP] {{< ref "tp.md" >}}
 
 
 # Reason for app choice
