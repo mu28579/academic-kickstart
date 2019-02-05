@@ -1,6 +1,6 @@
 +++ title = "screens" 
 date = "2017-08-01T00:00:00Z" 
-math = false \
+math = false
 highlight = false 
 weight = 222000
 
