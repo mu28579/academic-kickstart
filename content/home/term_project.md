@@ -14,7 +14,7 @@ weight = 60
 
 +++
 
-[TP][screens]
+[TP] {{< ref "screens.md" >}}
 
 [screens]: /term-project/screens/
 
