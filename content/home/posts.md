@@ -25,5 +25,5 @@ filter_category = ""
 +++
 
 Just a test.
-[Screens](screens.md)
+[Screens]
 
