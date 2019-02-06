@@ -24,7 +24,6 @@ weight = 60
 {{< figure library="1" src="results_screen.png" title="Results Screen" >}}
 
 # Proposal
-  * [One page project proposal](https://github.com/mu28579/academic-kickstart/tree/master/static/files/project_proposal.pdf)
   * [Data Set](https://www.imdb.com/interfaces/)
   * {{% staticref "files/project_proposal.pdf" %}}Download proposal{{% /staticref %}}.
 
