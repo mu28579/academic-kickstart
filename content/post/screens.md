@@ -1,7 +1,7 @@
 +++
-title = "screens"
+title = "Screen Skethes"
 date = 2017-01-01T00:00:00
 
 +++
 
-This is just a test.
+This is where content will go.
