@@ -1,5 +1,5 @@
 +++
-title = "Screen Skethes"
+title = "Screen Sketches"
 date = 2017-01-01T00:00:00
 
 +++
