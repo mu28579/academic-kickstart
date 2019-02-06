@@ -25,4 +25,5 @@ filter_category = ""
 +++
 
 Just a test.
+[Screens]{{< ref "screens.md" >}}
 
