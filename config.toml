@@ -279,8 +279,8 @@ enableGitInfo = false
     icon_pack = "fab"
     link = "https://github.com/mu28579"
 
-  # Link to a PDF of your resume/CV from the About widget.
-  # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+  # Link to a PDF of your/CV from the About widget.
+  # To enable, copy your /CV to `static/files/cv.pdf` and uncomment the lines below.
    #[[params.social]]
      #icon = "cv"
      #icon_pack = "ai"
@@ -328,7 +328,7 @@ enableGitInfo = false
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[menu.main]]
     name = "Resume"
-    url = "files/Resume.pdf"
+    url = "img/brewjournal.png"
     weight = 7
 
 # Search.
