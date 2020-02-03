@@ -309,11 +309,6 @@ enableGitInfo = false
   url = "#posts"
   weight = 3
 
-[[menu.main]]
-  name = "Term Project"
-  url = "#term_project"
-  weight = 4
-
 #[[menu.main]]
   #name = "Tutorials"
   #url = "/tutorial/"
