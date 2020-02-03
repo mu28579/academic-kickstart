@@ -4,10 +4,8 @@ date = 2017-01-01T00:00:00
 
 +++
 
-{{< figure library="1" src="UI Design Sketches.png" title="UI Design" >}}
+{{< figure library="1" src="openingWindow.png" title="Initial Window" >}}
 
 # Screens Breakdown
-  * The first screen is the main/home screen. It welcomes the user and allows a search by film title or by tags. 
-  * Once an option is chosen, a text entry box will appear to allow the user to enter the desired text. 
-  * Assuming a film title search, and a match is found, the top portion of the screen will display the matching film data. The bottom half of the screen will show a list of recommended films based on the film that was searched. The user will be able to click on any of those titles to see the film's data.
-  * The last image shows the main screen when a title search is conducted and a match is not found. A pop up box will inform the user that a match was not found. It will also urge the user to try a tag search to attempt to find similar titles. 
+  * This project uses Java Swing create a GUI that simulates the RIP routing distance vector algorithm by reading in data from a text file.
+  * Once run, the first window shows 3 options for the user. The open file button allows the user to enter the name of the input text file to be read. The step button runs the algorithm one step at a time and the run button runs the algorithm until the system of routers is stable.
