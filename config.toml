@@ -53,7 +53,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Mike Urbano"
-  role = "Computer Science Student"
+  role = "Software Engineering Graduate"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -126,7 +126,7 @@ enableGitInfo = false
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-  logo = "brewjournal.jpg"
+  logo = "swe.jpg"
 
   # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
@@ -323,7 +323,7 @@ enableGitInfo = false
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[menu.main]]
     name = "Resume"
-    url = "img/brewjournal.png"
+    url = "files/MikeUrbano.pdf"
     weight = 7
 
 # Search.
