@@ -12,7 +12,12 @@ date = 2017-01-01T00:00:00
 
 {{< figure library="1" src="inputName.png" title="Input file name window" >}}
 
-  * Once the open file button is clicked, the preceeding window appears which allows the user to enter the appropriate file name. If an incorrect file name is given, the user is shown an error message.
+  * Once the open file button is clicked, the preceeding window appears which allows the user to enter the appropriate file name. If an incorrect file name is given, the user is shown the error message below.
   
 {{< figure library="1" src="error.png" title="Error Message" >}}
+
+  * Below is an example of an input file. The file contains 3 colums. The first two columns are the ID's of two routers and the third column is the distance between the two routers. 
+  
+{{< figure library="1" src="inputFile.png" title="Sample Input File" >}}
+  
   
