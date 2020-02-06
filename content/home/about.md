@@ -11,7 +11,7 @@ weight = 3
 [interests]
   interests = [
     "Application Development",
-    "Data Security",
+    "Software Testing",
     "Web Development"
   ]
 
