@@ -10,9 +10,9 @@ weight = 3
 # List your academic interests.
 [interests]
   interests = [
-    "Software Testing",
+    "Application Development",
     "Data Security",
-    "Information Retrieval"
+    "Web Development"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -31,6 +31,6 @@ weight = 3
 
 # Biography
 
-Mike Urbano is a student in the Computer Science department at the Univeristy of Texas at Arlington. He is working toward a bachelor's degreee in software engineering. The expected graduation date is fall of 2019.
+My name is Mike Urbano and I am a graduate from the University of Texas Arlington's college of Computer Science and Engineering. I have a Bachelor's Degree of Science in Software Engineering with a GPA of 3.2. I hope to obtain a software engineering position where I can continue to learn new technologies. My interests include application and web development as well as software testing. My coursework includes object oriented programming, agile development, algorithms and data structures and software design patterns. 
 
  
