@@ -21,16 +21,11 @@ weight = 3
   institution = "Univerity of Texas at Arlington"
   year = 2019
 
-[[education.courses]]
-  course = "Associates of Science Degree"
-  institution = "Northlake Community College"
-  year = 2015
-
  
 +++
 
 # Biography
 
-My name is Mike Urbano and I am a graduate from the University of Texas Arlington's college of Computer Science and Engineering. I have a Bachelor's Degree of Science in Software Engineering with a GPA of 3.2. I hope to obtain a software engineering position where I can continue to learn new technologies. My interests include application and web development as well as software testing. My coursework includes object oriented programming, agile development, algorithms and data structures and software design patterns. 
+My name is Mike Urbano and I am a graduate from the University of Texas at Arlington's college of Computer Science and Engineering. I have a Bachelor's Degree of Science in Software Engineering with a GPA of 3.2. I hope to obtain a position where I can  utilize the skills I've learned while continuing to learn new technologies. My interests include application and web development as well as software testing. My coursework includes object oriented programming, agile development, algorithms and data structures and software design patterns. 
 
  
